@@ -1,0 +1,3 @@
+Corrections = {
+    "downloadd": "download",
+}
